@@ -14,12 +14,12 @@
  
  All in One Package - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  
- Install as stated by the Instructions. Use Port 5432 and localhost (if necessary). Username is postgres and password is postgres1.(All Lowercase) Create a database called Books by right clicking and selecting database (no password). 
+ Install as stated by the Instructions. Use Port 5432 and localhost (if necessary). Username is postgres and password is postgres1.
 
 # Compiling and Executing Code 
  SQL Code should be run first. 
  
- Open PgAdmin 4 and login if necessary. Right Click on the Books Database select Query Tool. Select open file once in query tool, select the Books.sql and click run. Then minimize.  
+ Open PgAdmin 4 and login if necessary. Create a database called Books by right clicking and selecting database (no password). Right Click on the Books Database select Query Tool. Select open file once in query tool, select the Books.sql and click run. Then minimize.  
  
  Python Code should be run second. 
  
