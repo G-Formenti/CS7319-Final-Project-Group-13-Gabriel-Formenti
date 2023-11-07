@@ -9,11 +9,12 @@
  Install as stated by the Instructions.  
  
  Two Packages are required to be installed for the code to run tkinter and psycopg2. This can be done via PyCharm by opening the project with the python code going to View->Tool Windows->Python Packages. 
+ 
  Compiling the SQL Code Requires PostgreSQL 16 and PGAdmin 4.  
  
  All in One Package - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  
- Install as stated by the Instructions. Use Port 5432 and localhost (if necessary). Username is Postgres and password is postgres1. Create a database called Books by right clicking and selecting database (no password). 
+ Install as stated by the Instructions. Use Port 5432 and localhost (if necessary). Username is postgres and password is postgres1. Create a database called Books by right clicking and selecting database (no password). 
 
 # Compiling and Executing Code 
  SQL Code should be run first. 
