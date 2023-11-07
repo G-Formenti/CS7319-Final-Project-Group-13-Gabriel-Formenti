@@ -14,7 +14,7 @@
  
  All in One Package - https://www.enterprisedb.com/downloads/postgres-postgresql-downloads
  
- Install as stated by the Instructions. Use Port 5432 and localhost (if necessary). Username is postgres and password is postgres1. Create a database called Books by right clicking and selecting database (no password). 
+ Install as stated by the Instructions. Use Port 5432 and localhost (if necessary). Username is postgres and password is postgres1.(All Lowercase) Create a database called Books by right clicking and selecting database (no password). 
 
 # Compiling and Executing Code 
  SQL Code should be run first. 
